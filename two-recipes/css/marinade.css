@@ -1,0 +1,28 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#heading-one, .heading-two,
+ .heading-three, .heading-four {
+    background-color: brown;
+    margin-right: 390px;
+    border-bottom:2px solid black;
+    border-right: 2px solid black;
+}
+
+.paragraph-one, .paragraph-two,
+ .paragraph-three, .list, .list-two {
+    font-size:20px;
+ }
+
+ button {
+    padding:7px;
+    background-color: whitesmoke;
+    font-size:15px;
+    border-bottom: 2px solid black;
+    border-right:2px solid black;
+ }
+
+ img {
+    border:2px solid black;
+ }
